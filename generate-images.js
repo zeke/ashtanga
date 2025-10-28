@@ -9,7 +9,7 @@ const replicate = new Replicate({
 
 // Function to get available style images
 async function getAvailableStyles() {
-  const stylesDir = "images/_styles";
+  const stylesDir = "styles";
   const files = await fs.readdir(stylesDir);
   return files
     .filter(file => file.endsWith('.png') || file.endsWith('.jpg') || file.endsWith('.jpeg'))
@@ -55,13 +55,13 @@ if (styleArg === '--help' || styleArg === '-h') {
 Usage: node generate-images.js [style-image]
 
 Arguments:
-  style-image    Optional. Name of style image from images/_styles/ directory,
+  style-image    Optional. Name of style image from styles/ directory,
                  or full path to a style image file.
                  If not provided, you'll be prompted to select interactively.
 
 Examples:
   node generate-images.js                    # Interactive mode
-  node generate-images.js scarry.png         # Use specific style from _styles
+  node generate-images.js scarry.png         # Use specific style from styles/
   node generate-images.js /path/to/style.png # Use custom style path
 `);
   process.exit(0);
@@ -72,14 +72,14 @@ if (styleArg) {
   if (styleArg.includes('/') || styleArg.includes('\\')) {
     styleImagePath = styleArg;
   } else {
-    styleImagePath = path.join("images/_styles", styleArg);
+    styleImagePath = path.join("styles", styleArg);
   }
   console.log(`Using style: ${styleImagePath}`);
 } else {
   // Interactive mode
   const availableStyles = await getAvailableStyles();
   if (availableStyles.length === 0) {
-    console.error("No style images found in images/_styles/");
+    console.error("No style images found in styles/");
     process.exit(1);
   }
   const selectedStyle = await promptForStyle(availableStyles);
@@ -102,6 +102,18 @@ const base64Image = styleImageBuffer.toString('base64');
 const styleImageDataUrl = `data:image/jpeg;base64,${base64Image}`;
 console.log(`Style image loaded\n`);
 
+// Function to sanitize filename
+function sanitizeFilename(name) {
+  return name
+    .toLowerCase()
+    .replace(/[^a-z0-9]+/g, "-")
+    .replace(/^-|-$/g, "");
+}
+
+// Extract style name from path and slugify it
+const styleBasename = path.basename(styleImagePath, path.extname(styleImagePath));
+const slugifiedStyleName = sanitizeFilename(styleBasename);
+
 // Read poses data
 const posesData = JSON.parse(
   await fs.readFile("poses.json", "utf-8")
@@ -110,24 +122,16 @@ const posesData = JSON.parse(
 // Read prompt template
 const promptTemplate = await fs.readFile("prompt-template.txt", "utf-8");
 
-// Create timestamped directory
+// Create timestamped directory with style name
 const timestamp = new Date()
   .toISOString()
   .replace(/[-:]/g, "")
   .replace(/\..+/, "")
   .replace("T", "");
-const outputDir = path.join("images", timestamp);
+const outputDir = path.join("images", `${timestamp}-${slugifiedStyleName}`);
 await fs.mkdir(outputDir, { recursive: true });
 
 console.log(`Output directory: ${outputDir}\n`);
-
-// Function to sanitize filename
-function sanitizeFilename(name) {
-  return name
-    .toLowerCase()
-    .replace(/[^a-z0-9]+/g, "-")
-    .replace(/^-|-$/g, "");
-}
 
 // Function to generate prompt from template
 function generatePrompt(pose) {
