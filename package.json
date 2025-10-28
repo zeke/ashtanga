@@ -1,0 +1,13 @@
+{
+  "name": "ashtanga-image-generator",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Generate yoga pose images for Ashtanga Primary Series",
+  "main": "generate-images.js",
+  "scripts": {
+    "generate": "node generate-images.js"
+  },
+  "dependencies": {
+    "replicate": "alpha"
+  }
+}

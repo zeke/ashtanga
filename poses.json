@@ -1,0 +1,392 @@
+{
+  "title": "Ashtanga Primary Series",
+  "subtitle": "Yoga Chikitsa - Yoga Therapy",
+  "note": "The complete Primary Series takes 90-120 minutes to practice traditionally.",
+  "sections": [
+    {
+      "name": "Opening",
+      "poses": [
+        {
+          "sanskrit": "Samasthiti",
+          "etymology": "sama (equal/same) + sthiti (standing)",
+          "translation": "\"Equal Standing\" - Mountain Pose",
+          "description": "Standing at attention, feet together",
+          "anatomical": "A figure stands vertically with feet together, inner edges touching. Both legs are straight. The spine forms a vertical line. Arms hang at the sides with palms facing the thighs. Shoulders are level. The head sits centered atop the spine with chin parallel to the ground, eyes gazing forward."
+        }
+      ]
+    },
+    {
+      "name": "Sun Salutations",
+      "poses": [
+        {
+          "sanskrit": "Surya Namaskara A",
+          "repetitions": "5x",
+          "etymology": "surya (sun) + namaskara (salutation)",
+          "translation": "Sun Salutation A",
+          "description": "Flowing warm-up sequence",
+          "anatomical": "The body forms an inverted V-shape with hands and feet on the ground. The hips are at the apex, creating the highest point. Both arms and legs are straight. The head hangs between the arms. The heels reach toward the floor."
+        },
+        {
+          "sanskrit": "Surya Namaskara B",
+          "repetitions": "5x",
+          "translation": "Sun Salutation B",
+          "description": "Sun salutation with chair pose",
+          "anatomical": "The body stands in a lunge with the front knee bent at 90 degrees and positioned over the ankle. The back leg extends straight behind with the foot at a 45-degree angle. The torso is upright and vertical. Both arms reach straight overhead with palms together or parallel. The gaze directs upward toward the hands."
+        }
+      ]
+    },
+    {
+      "name": "Standing Postures",
+      "poses": [
+        {
+          "sanskrit": "Padangusthasana",
+          "etymology": "pada (foot) + angustha (big toe) + asana (pose)",
+          "translation": "\"Big Toe Pose\" - Hand to Big Toe",
+          "description": "Forward fold holding big toes",
+          "anatomical": "The figure stands with feet hip-width apart, legs straight. The torso folds forward from the hips with the spine lengthened. Index and middle fingers grasp each big toe with thumbs on top of the nails. Elbows bend outward. The head hangs toward the shins. Weight shifts forward onto the balls of the feet."
+        },
+        {
+          "sanskrit": "Pada Hastasana",
+          "etymology": "pada (foot) + hasta (hand) + asana (pose)",
+          "translation": "\"Hand Under Foot Pose\" - Hands Under Feet",
+          "description": "Forward fold, hands under feet",
+          "anatomical": "The figure stands with feet hip-width apart, legs straight. The torso folds deeply forward. Hands slide under the feet with palms facing up and toes reaching toward the wrists. Elbows bend as the upper body draws close to the legs. The crown of the head descends toward the floor."
+        },
+        {
+          "sanskrit": "Utthita Trikonasana",
+          "etymology": "utthita (extended) + tri (three) + kona (angle) + asana (pose)",
+          "translation": "\"Extended Triangle\" - Triangle Pose",
+          "description": "Side stretch with hand to shin/floor",
+          "anatomical": "The figure stands with feet wide apart. The front foot points forward while the back foot angles inward at 45 degrees. Both legs are straight. The torso extends laterally over the front leg with one arm reaching down to the shin, ankle, or floor outside the front foot. The opposite arm extends straight up, creating a vertical line with the lower arm. The chest faces to the side and the head turns to gaze upward."
+        },
+        {
+          "sanskrit": "Parivrtta Trikonasana",
+          "etymology": "parivrtta (revolved) + tri (three) + kona (angle) + asana (pose)",
+          "translation": "\"Revolved Triangle\" - Revolved Triangle",
+          "description": "Twisted triangle with opposite hand down",
+          "anatomical": "The figure stands with feet wide apart, front foot pointing forward and back foot turned slightly inward. Both legs are straight. The torso rotates toward the front leg with the back hand reaching down to the floor outside the front foot. The front arm extends straight up toward the ceiling. The spine shows a visible twist and the chest faces upward. The head turns to gaze at the raised hand."
+        },
+        {
+          "sanskrit": "Utthita Parsvakonasana",
+          "etymology": "utthita (extended) + parsva (side) + kona (angle) + asana (pose)",
+          "translation": "\"Extended Side Angle\" - Extended Side Angle",
+          "description": "Deep side lunge, arm overhead",
+          "anatomical": "The figure stands with feet wide apart. The front leg bends at a 90-degree angle with the knee over the ankle and thigh parallel to the floor. The back leg remains straight. The front forearm rests on the front thigh, or the hand reaches to the floor outside the front foot. The back arm extends overhead, creating a diagonal line from the back heel through the fingertips. The chest rotates toward the ceiling and the gaze looks upward."
+        },
+        {
+          "sanskrit": "Parivrtta Parsvakonasana",
+          "etymology": "parivrtta (revolved) + parsva (side) + kona (angle) + asana (pose)",
+          "translation": "\"Revolved Side Angle\" - Revolved Side Angle",
+          "description": "Twisted lunge, hand to floor",
+          "anatomical": "The front leg bends at 90 degrees while the back leg stays straight. The torso twists deeply toward the front leg. The back elbow hooks outside the front knee, or the back hand plants on the floor outside the front foot. The front arm extends overhead with palm facing down. The spine shows a pronounced twist. The chest rotates open and the gaze directs toward the ceiling or over the front shoulder."
+        },
+        {
+          "sanskrit": "Prasarita Padottanasana A-D",
+          "etymology": "prasarita (spread/expanded) + pada (foot) + uttana (intense stretch) + asana (pose)",
+          "translation": "\"Spread Feet Intense Stretch\" - Wide-Legged Forward Fold",
+          "description": "Four variations of wide-stance fold",
+          "anatomical": "The figure stands with feet wide apart and parallel. Legs are straight. Four variations visible: A - hands on the floor between the feet with the crown of the head approaching the floor; B - hands on hips with the spine extended and torso upright or slightly forward; C - hands interlaced behind the back with arms lifting as the torso folds forward; D - hands grasping the big toes or outside edges of the feet while folding forward."
+        },
+        {
+          "sanskrit": "Parsvottanasana",
+          "etymology": "parsva (side) + uttana (intense stretch) + asana (pose)",
+          "translation": "\"Intense Side Stretch\" - Pyramid Pose",
+          "description": "Forward fold over straight front leg",
+          "anatomical": "The figure stands with feet hip-width apart, front foot pointing forward and back foot turned inward 45-60 degrees. Both legs are straight. The torso folds forward over the front leg with the spine lengthened. Hands are in prayer position behind the back or placed on the floor beside the front foot. The chin approaches the shin of the front leg."
+        },
+        {
+          "sanskrit": "Utthita Hasta Padangusthasana",
+          "etymology": "utthita (extended) + hasta (hand) + pada (foot) + angustha (big toe) + asana (pose)",
+          "translation": "\"Extended Hand to Big Toe\" - Standing Hand to Toe",
+          "description": "Leg lifts in three directions",
+          "anatomical": "The figure balances on one straight leg. The other leg extends forward with the knee straight and the hand holding the big toe. The hips remain level. The free hand rests on the hip. The gaze is steady, directed forward."
+        },
+        {
+          "sanskrit": "Ardha Baddha Padmottanasana",
+          "etymology": "ardha (half) + baddha (bound) + padma (lotus) + uttana (intense stretch) + asana (pose)",
+          "translation": "\"Half Bound Lotus Forward Fold\" - Half Lotus Forward Bend",
+          "description": "Standing half lotus fold",
+          "anatomical": "The figure balances on one straight leg. The opposite foot rests in half lotus position on top of the thigh with the knee pointing downward. One arm wraps behind the back to grasp the lotus foot. The free hand reaches down to touch the floor beside the standing foot. The torso folds forward over the standing leg with the crown of the head approaching the floor."
+        },
+        {
+          "sanskrit": "Utkatasana",
+          "etymology": "utkata (fierce/powerful) + asana (pose)",
+          "translation": "\"Fierce Pose\" - Chair Pose",
+          "description": "Squatting position, arms raised",
+          "anatomical": "The figure squats with feet together or hip-width apart. The knees bend deeply with thighs approaching parallel to the floor. The hips lower back as if sitting. The torso leans slightly forward while maintaining length. Both arms extend straight overhead alongside the ears with palms facing each other or joined. The gaze directs forward or slightly upward."
+        },
+        {
+          "sanskrit": "Virabhadrasana A & B",
+          "etymology": "virabhadra (warrior/hero) + asana (pose)",
+          "translation": "\"Warrior Pose\" - Warrior I & II",
+          "description": "Lunging warrior stances",
+          "anatomical": "The figure stands in a wide lunge. The front knee bends at 90 degrees positioned over the ankle. The back leg extends straight. The hips open to the side. Both arms extend out to the sides at shoulder height, parallel to the floor. The torso centers between the legs. The head turns with the gaze directed over the front fingertips."
+        }
+      ]
+    },
+    {
+      "name": "Seated Postures",
+      "poses": [
+        {
+          "sanskrit": "Dandasana",
+          "etymology": "danda (staff/stick) + asana (pose)",
+          "translation": "\"Staff Pose\" - Staff Pose",
+          "description": "Seated with legs extended, upright spine",
+          "anatomical": "The figure sits with legs extended straight forward and feet together. The spine is vertical. Hands press into the floor beside the hips or rest on the thighs. Shoulders stack over the hips. The chest lifts with the sternum forward. The head balances centered over the spine with gaze directed forward."
+        },
+        {
+          "sanskrit": "Paschimottanasana A-D",
+          "etymology": "paschima (west/back side) + uttana (intense stretch) + asana (pose)",
+          "translation": "\"West/Back Stretching\" - Seated Forward Fold",
+          "description": "Deep forward fold over legs",
+          "anatomical": "The figure sits with legs extended forward. The torso folds forward from the hips with the spine lengthened. Hands hold the sides of the feet, big toes, or wrap around the soles. Elbows bend outward or rest on the floor. The torso folds down onto the thighs. The chin approaches or rests on the shins."
+        },
+        {
+          "sanskrit": "Purvottanasana",
+          "etymology": "purva (east/front side) + uttana (intense stretch) + asana (pose)",
+          "translation": "\"East/Front Stretching\" - Upward Plank",
+          "description": "Reverse table top, lifting hips",
+          "anatomical": "The figure sits with legs extended, then lifts the hips high. Hands plant behind the body with fingers pointing toward the feet. The body forms a reverse plank creating a straight line from heels to shoulders. Legs are straight with feet flat or toes pointed. The chest lifts upward. Arms remain straight, supporting the body weight. The head releases back with throat open."
+        },
+        {
+          "sanskrit": "Ardha Baddha Padma Paschimottanasana",
+          "etymology": "ardha (half) + baddha (bound) + padma (lotus) + paschima (west/back) + uttana (intense stretch) + asana (pose)",
+          "translation": "\"Half Bound Lotus West Stretch\" - Half Lotus Forward Fold",
+          "description": "One leg lotus, folding over extended leg",
+          "anatomical": "The figure sits with one leg extended straight. The opposite leg folds in half lotus with the foot resting on top of the extended thigh. One arm wraps behind the back to bind the lotus foot. The free hand reaches to hold the extended foot. The torso folds forward over the extended leg with the chest approaching the thigh and chin moving toward the shin."
+        },
+        {
+          "sanskrit": "Triang Mukhaikapada Paschimottanasana",
+          "etymology": "triang (three limbs) + mukha (face) + eka (one) + pada (foot) + paschima (west/back) + uttana (intense stretch) + asana (pose)",
+          "translation": "\"Three Limbs Face One Foot West Stretch\" - One-Legged Forward Fold",
+          "description": "One leg bent back, fold over extended leg",
+          "anatomical": "The figure sits with one leg extended forward. The opposite leg bends with the knee pointing forward and the foot beside the hip. The torso folds forward over the extended leg. Hands hold the extended foot. Elbows bend outward. The chest approaches the thigh and the chin moves toward the shin of the extended leg."
+        },
+        {
+          "sanskrit": "Janu Sirsasana A-C",
+          "etymology": "janu (knee) + sirsa (head) + asana (pose)",
+          "translation": "\"Knee Head Pose\" - Head to Knee Pose",
+          "description": "Three variations folding to one extended leg",
+          "anatomical": "The figure sits with one leg extended. The opposite leg bends with the foot placed at the inner thigh of the extended leg. The bent knee opens to the side. The torso folds forward over the extended leg with hands holding the foot. The torso rotates slightly toward the extended leg. The chin approaches the shin."
+        },
+        {
+          "sanskrit": "Marichyasana A-D",
+          "etymology": "Marichi (sage, literally \"ray of light\") + asana (pose)",
+          "translation": "\"Pose of Marichi\" - Marichi's Pose",
+          "description": "Four variations with bent knee binds and twists",
+          "anatomical": "The figure sits with one leg extended and the opposite knee bent with the foot flat beside the extended leg's knee. The torso twists toward the bent knee. One arm wraps around the bent knee while the other reaches behind the back. The hands bind together behind the back. The spine shows a visible twist."
+        },
+        {
+          "sanskrit": "Navasana",
+          "repetitions": "5x",
+          "etymology": "nava (boat/ship) + asana (pose)",
+          "translation": "\"Boat Pose\" - Boat Pose",
+          "description": "V-sit balance, legs and torso lifted",
+          "anatomical": "The figure balances on the sitting bones. Both legs lift at approximately 45 degrees with knees straight and toes at eye level. The torso leans back at the same angle as the legs. The spine remains straight. Arms extend forward parallel to the floor, reaching toward the feet. The whole body forms a V-shape. The gaze directs toward the toes."
+        },
+        {
+          "sanskrit": "Bhujapidasana",
+          "etymology": "bhuja (arm/shoulder) + pida (pressure) + asana (pose)",
+          "translation": "\"Shoulder Pressure Pose\" - Shoulder Pressing Pose",
+          "description": "Arm balance, legs on shoulders",
+          "anatomical": "The figure balances on both hands planted shoulder-width apart. The backs of the thighs rest on the backs of the upper arms near the shoulders. Arms bend with elbows at approximately 90 degrees. The hips lift high. Feet lift off the floor with ankles optionally crossed. The head lifts with gaze forward. The entire body weight is supported on the hands."
+        },
+        {
+          "sanskrit": "Kurmasana",
+          "etymology": "kurma (tortoise) + asana (pose)",
+          "translation": "\"Tortoise Pose\" - Tortoise Pose",
+          "description": "Deep forward fold, arms under legs",
+          "anatomical": "The figure sits with legs spread wide. Knees bend with feet wider than hips. Arms thread under the bent knees and slide out to the sides. Shoulders position under the knees or thighs. The torso folds forward between the legs. The chest and belly lower toward the floor. The head rests on or approaches the floor. Arms extend out to the sides with palms down."
+        },
+        {
+          "sanskrit": "Supta Kurmasana",
+          "etymology": "supta (sleeping/reclining) + kurma (tortoise) + asana (pose)",
+          "translation": "\"Sleeping Tortoise\" - Sleeping Tortoise",
+          "description": "Bound position with legs behind head",
+          "anatomical": "The figure lies with legs lifted and crossed behind the neck. One ankle crosses over the opposite ankle behind the head. Arms wrap behind the back with hands bound together. The chin rests on or approaches the floor. Shoulders position under or behind the knees. The spine rounds forward. The body compresses into a compact folded position."
+        },
+        {
+          "sanskrit": "Garbha Pindasana",
+          "etymology": "garbha (womb) + pinda (embryo) + asana (pose)",
+          "translation": "\"Embryo in Womb\" - Embryo Pose",
+          "description": "Lotus with arms through legs, rolling",
+          "anatomical": "The figure sits in full lotus with legs crossed and each foot on the opposite thigh. Arms thread through the space between thighs and calves. Hands reach through to touch the face, resting on cheeks or ears. The body forms a compact, rounded shape."
+        },
+        {
+          "sanskrit": "Kukkutasana",
+          "etymology": "kukkuta (rooster/cock) + asana (pose)",
+          "translation": "\"Rooster Pose\" - Rooster Pose",
+          "description": "Arm balance in lotus",
+          "anatomical": "The figure sits in full lotus. Arms thread through the space between thighs and calves with hands pressing firmly into the floor beside the hips. The entire body lifts off the floor with the lotus position maintained. Arms are straight. The body elevates several inches off the ground. Gaze directs forward. Balance is held on the hands only."
+        },
+        {
+          "sanskrit": "Baddha Konasana A & B",
+          "etymology": "baddha (bound) + kona (angle) + asana (pose)",
+          "translation": "\"Bound Angle Pose\" - Bound Angle/Butterfly",
+          "description": "Soles together, knees wide",
+          "anatomical": "The figure sits with knees bent and soles of feet pressing together. Heels draw toward the pelvis. Knees open wide to the sides. Hands hold the feet or ankles. The spine is upright with chest lifted, or the torso folds forward from the hips with the forehead approaching the feet or floor."
+        },
+        {
+          "sanskrit": "Upavistha Konasana A & B",
+          "etymology": "upavistha (seated) + kona (angle) + asana (pose)",
+          "translation": "\"Seated Angle Pose\" - Wide-Angle Seated Forward Fold",
+          "description": "Legs wide, folding forward",
+          "anatomical": "The figure sits with legs spread wide in a V-shape, approximately 90 degrees or wider. Legs are straight. The torso either sits upright with hands holding feet or big toes and spine elongated, or folds forward from the hips with the torso lowering toward the floor between the legs. The chest and chin approach the floor."
+        },
+        {
+          "sanskrit": "Supta Konasana",
+          "etymology": "supta (reclining/sleeping) + kona (angle) + asana (pose)",
+          "translation": "\"Reclining Angle Pose\" - Reclining Angle",
+          "description": "Rolling back, legs wide overhead",
+          "anatomical": "The figure balances on the upper back and shoulders. Legs extend overhead in a wide V-shape. Hands reach to hold the big toes or feet. The sitting bones point toward the ceiling. Legs are as straight as possible. The head and neck rest on the floor."
+        },
+        {
+          "sanskrit": "Supta Padangusthasana A & B",
+          "etymology": "supta (reclining) + pada (foot) + angustha (big toe) + asana (pose)",
+          "translation": "\"Reclining Big Toe Pose\" - Reclining Hand to Toe",
+          "description": "Leg lifts while lying down",
+          "anatomical": "The figure lies supine on the back. One leg lifts straight up to vertical with the hand holding the big toe or a strap around the foot. The opposite leg extends on the floor. Shoulders and hips remain on the ground. In variation B, the lifted leg opens to the side and lowers toward the floor beside the body."
+        },
+        {
+          "sanskrit": "Ubhaya Padangusthasana",
+          "etymology": "ubhaya (both) + pada (foot) + angustha (big toe) + asana (pose)",
+          "translation": "\"Both Feet Big Toe\" - Both Feet Big Toe",
+          "description": "V-sit holding both feet",
+          "anatomical": "The figure balances on the sitting bones in a V-sit. Both legs lift together with hands holding the big toes. Legs are straight with feet together. The spine is straight and chest lifted. The body forms a V-shape. Arms are straight or slightly bent. Gaze directs forward."
+        },
+        {
+          "sanskrit": "Urdhva Mukha Paschimottanasana",
+          "etymology": "urdhva (upward) + mukha (face/facing) + paschima (west/back) + uttana (intense stretch) + asana (pose)",
+          "translation": "\"Upward Facing West Stretch\" - Upward Facing Forward Fold",
+          "description": "Rolling balance, folded over lifted legs",
+          "anatomical": "The figure balances on the sitting bones. Both legs lift together straight up. Hands hold the feet or outsides of the feet. The torso folds forward, bringing the chest and face to the legs. Legs remain vertical or slightly angled. Elbows bend out to the sides. The chin reaches the shins or beyond."
+        },
+        {
+          "sanskrit": "Setu Bandhasana",
+          "etymology": "setu (bridge) + bandha (lock/binding) + asana (pose)",
+          "translation": "\"Bridge Building\" - Bridge Pose",
+          "description": "Shoulder stand preparation, lifting from shoulders",
+          "anatomical": "The figure lies with upper back and shoulders on the floor. Hips lift high. Hands support the lower back. Legs extend up toward the ceiling or remain in lotus. Weight rests on the shoulders and upper arms. The chin tucks to the chest."
+        }
+      ]
+    },
+    {
+      "name": "Finishing Sequence",
+      "poses": [
+        {
+          "sanskrit": "Urdhva Dhanurasana",
+          "repetitions": "3x",
+          "etymology": "urdhva (upward) + dhanura (bow) + asana (pose)",
+          "translation": "\"Upward Bow\" - Wheel/Upward Bow",
+          "description": "Full backbend, hands and feet on floor",
+          "anatomical": "The figure lies on the back with feet planted hip-width apart close to the buttocks and knees bent. Hands place beside the head with fingers pointing toward the shoulders and elbows pointing up. The entire body lifts off the floor with arms and legs straightening to create a high arch. The chest lifts toward the ceiling. The head hangs with gaze toward the floor between the hands. The spine forms a deep extension creating a wheel or bow shape."
+        },
+        {
+          "sanskrit": "Paschimottanasana",
+          "etymology": "paschima (west/back) + uttana (intense stretch) + asana (pose)",
+          "translation": "\"West Stretch\" - Seated Forward Fold",
+          "description": "Counterpose to backbends",
+          "anatomical": "The figure sits with legs extended forward together. The torso folds forward from the hips with the spine lengthened. Hands hold the sides of the feet or big toes. The torso folds down onto the thighs. The chin approaches or rests on the shins."
+        },
+        {
+          "sanskrit": "Salamba Sarvangasana",
+          "etymology": "sa (with) + alamba (support) + sarva (all) + anga (limbs) + asana (pose)",
+          "translation": "\"Supported All Limbs Pose\" - Shoulderstand",
+          "description": "Inverted on shoulders, legs vertical",
+          "anatomical": "The figure balances on the shoulders and upper back. Hands support the lower back with elbows on the floor. Legs extend straight up toward the ceiling, perpendicular to the floor. The body forms a vertical line from shoulders to feet. Weight rests on the shoulders and upper arms. The chin tucks into the chest. Legs are together with feet pointed or flexed."
+        },
+        {
+          "sanskrit": "Halasana",
+          "etymology": "hala (plow) + asana (pose)",
+          "translation": "\"Plow Pose\" - Plow Pose",
+          "description": "Feet overhead touching floor behind head",
+          "anatomical": "The figure balances with legs lowering overhead from shoulder stand. Feet reach toward the floor behind the head with toes touching the ground. Legs are straight with hips stacked over shoulders. Hands support the back or interlace on the floor behind the back with arms straight. Weight rests on the shoulders and upper arms. The chin tucks."
+        },
+        {
+          "sanskrit": "Karnapidasana",
+          "etymology": "karna (ear) + pida (pressure) + asana (pose)",
+          "translation": "\"Ear Pressure Pose\" - Ear Pressure Pose",
+          "description": "Knees to ears from plow",
+          "anatomical": "The figure folds from plow pose with knees bending and descending toward the ears. Knees press gently against or beside the ears. Hands hold the feet or wrap around to hold opposite elbows. The body folds compactly. The spine rounds. Weight remains on the shoulders and upper arms."
+        },
+        {
+          "sanskrit": "Urdhva Padmasana",
+          "etymology": "urdhva (upward) + padma (lotus) + asana (pose)",
+          "translation": "\"Upward Lotus\" - Upward Lotus",
+          "description": "Lotus in shoulderstand",
+          "anatomical": "The figure is in shoulder stand position with legs in full lotus. Each foot rests on the opposite thigh. Knees point outward and slightly down. Hands continue to support the back. Balance is maintained on the shoulders. The body is vertical from shoulders to hips with the lotus position compact and centered over the shoulders."
+        },
+        {
+          "sanskrit": "Pindasana",
+          "etymology": "pinda (embryo/fetus) + asana (pose)",
+          "translation": "\"Embryo Pose\" - Embryo in Shoulderstand",
+          "description": "Lotus drawn to chest in shoulderstand",
+          "anatomical": "From upward lotus, the lotus legs draw down toward the chest. Knees lower toward the forehead or face. Hands wrap around the legs, holding the shins or feet. The body rolls slightly more onto the upper back. The figure forms a compact, rounded, embryo-like shape while inverted."
+        },
+        {
+          "sanskrit": "Matsyasana",
+          "etymology": "matsya (fish) + asana (pose)",
+          "translation": "\"Fish Pose\" - Fish Pose",
+          "description": "Backbend with lotus or legs extended",
+          "anatomical": "The figure lies on the back with legs in lotus or extended straight. The back arches with elbows pressing into the floor for support. The crown of the head rests lightly on the floor. The chest lifts toward the ceiling with throat open. Hands hold the feet in lotus variation, or arms extend overhead in straight-leg variation. A deep arch forms in the upper back and neck."
+        },
+        {
+          "sanskrit": "Uttana Padasana",
+          "etymology": "uttana (extended/stretched) + pada (leg/foot) + asana (pose)",
+          "translation": "\"Extended Leg Pose\" - Extended Leg Pose",
+          "description": "Lifted backbend, straight legs hovering",
+          "anatomical": "From fish pose, the legs extend straight forward and lift off the floor, hovering several inches up. Arms extend overhead on the floor. The body is in a suspended backbend position. The crown of the head remains on the floor with throat open. Legs are parallel. The low back arches. Arms and legs create an extended line."
+        },
+        {
+          "sanskrit": "Sirsasana A & B",
+          "etymology": "sirsa (head) + asana (pose)",
+          "translation": "\"Head Pose\" - Headstand",
+          "description": "Inverted balance on head and forearms",
+          "anatomical": "The figure balances with forearms on the floor and fingers interlaced. The crown of the head rests on the floor inside the hands, forming a triangle base. Legs extend straight up to vertical. The body forms a straight vertical line. Weight distributes between the head and forearms. Legs are together with feet pointed. Gaze directs toward the floor."
+        },
+        {
+          "sanskrit": "Urdhva Dandasana",
+          "etymology": "urdhva (upward) + danda (staff) + asana (pose)",
+          "translation": "\"Upward Staff\" - Upward Staff",
+          "description": "Headstand variation, legs parallel to floor",
+          "anatomical": "From headstand, the legs lower forward while maintaining the headstand base. Legs extend parallel to the floor, forming a 90-degree angle with the torso. Feet are together with legs straight. Arms and head maintain the headstand foundation. The torso remains vertical."
+        },
+        {
+          "sanskrit": "Baddha Padmasana",
+          "etymology": "baddha (bound) + padma (lotus) + asana (pose)",
+          "translation": "\"Bound Lotus\" - Bound Lotus",
+          "description": "Lotus with hands bound behind back",
+          "anatomical": "The figure sits in full lotus position. The right arm reaches behind the back to grasp the right foot while the left arm reaches behind to grasp the left foot. Arms cross behind the back to achieve the bind. The spine is upright with chest open. Shoulders rotate back. The head centers. Gaze directs forward or eyes close."
+        },
+        {
+          "sanskrit": "Yoga Mudra",
+          "etymology": "yoga (union) + mudra (seal)",
+          "translation": "\"Yoga Seal\" - Yoga Seal",
+          "description": "Forward fold in bound lotus",
+          "anatomical": "From bound lotus, the bind is maintained with hands holding feet behind the back. The torso folds forward from the hips. The forehead lowers toward the floor. The spine lengthens as far as the bind allows. The figure forms a deep forward fold while maintaining the lotus and shoulder bind."
+        },
+        {
+          "sanskrit": "Padmasana",
+          "etymology": "padma (lotus) + asana (pose)",
+          "translation": "\"Lotus Pose\" - Lotus Pose",
+          "description": "Classic seated meditation pose",
+          "anatomical": "The figure sits with legs crossed in lotus. The right foot rests on the left thigh and left foot on the right thigh, both feet visible with soles facing up. Knees rest on or approach the floor. The spine is vertical. Hands rest on the knees in chin mudra or another mudra, or on the thighs. Shoulders are relaxed. The head balances over the spine."
+        },
+        {
+          "sanskrit": "Uth Pluthi",
+          "etymology": "ut (up) + pluthi (floating)",
+          "translation": "\"Lifted Up\" - Lifted Lotus",
+          "description": "Hovering in lotus on hands",
+          "anatomical": "The figure sits in lotus. Hands press firmly into the floor beside the hips with fingers spread wide. The entire body lifts off the floor with the lotus position maintained. The body elevates and hovers. Knees draw toward the chest. Arms are straight. The head is neutral."
+        },
+        {
+          "sanskrit": "Savasana",
+          "etymology": "sava (corpse) + asana (pose)",
+          "translation": "\"Corpse Pose\" - Final Relaxation",
+          "description": "Resting pose, complete stillness",
+          "anatomical": "The figure lies supine on the back. Legs extend with feet falling naturally apart. Arms rest alongside the body with palms facing up. Shoulders relax away from the ears. The head centers with the back of the head on the floor. Eyes close. The entire body releases into the floor with no visible tension."
+        }
+      ]
+    }
+  ]
+}

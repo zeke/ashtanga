@@ -1,0 +1,241 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ashtanga Primary Series - Mysore</title>
+    <script crossorigin src="https://unpkg.com/react@18/umd/react.production.min.js"></script>
+    <script crossorigin src="https://unpkg.com/react-dom@18/umd/react-dom.production.min.js"></script>
+    <script src="https://unpkg.com/@babel/standalone/babel.min.js"></script>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
+            line-height: 1.6;
+            color: #333;
+            background: #f5f5f5;
+            padding: 20px;
+        }
+
+        .container {
+            max-width: 1000px;
+            margin: 0 auto;
+            background: white;
+            padding: 40px;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+        }
+
+        header {
+            text-align: center;
+            margin-bottom: 50px;
+            padding-bottom: 30px;
+            border-bottom: 3px solid #8b4513;
+        }
+
+        h1 {
+            font-size: 2.5em;
+            color: #8b4513;
+            margin-bottom: 10px;
+        }
+
+        .subtitle {
+            font-size: 1.2em;
+            color: #666;
+            font-style: italic;
+        }
+
+        section {
+            margin-bottom: 40px;
+        }
+
+        h2 {
+            font-size: 1.8em;
+            color: #8b4513;
+            margin-bottom: 20px;
+            padding-bottom: 10px;
+            border-bottom: 2px solid #ddd;
+        }
+
+        .pose {
+            margin-bottom: 15px;
+            padding: 15px;
+            background: #fafafa;
+            border-left: 4px solid #d2691e;
+            transition: background 0.2s;
+        }
+
+        .pose:hover {
+            background: #f0f0f0;
+        }
+
+        .pose-header {
+            font-weight: bold;
+            color: #8b4513;
+            margin-bottom: 5px;
+        }
+
+        .sanskrit {
+            font-style: italic;
+            color: #d2691e;
+        }
+
+        .repetitions {
+            font-size: 0.9em;
+            color: #999;
+            margin-left: 5px;
+        }
+
+        .etymology {
+            font-size: 0.9em;
+            color: #666;
+            margin: 3px 0;
+        }
+
+        .translation {
+            font-weight: 600;
+            color: #444;
+        }
+
+        .description {
+            color: #555;
+            margin-top: 5px;
+        }
+
+        .note {
+            background: #fff4e6;
+            border-left: 4px solid #ff9800;
+            padding: 15px;
+            margin-top: 30px;
+            font-style: italic;
+        }
+
+        .loading {
+            text-align: center;
+            padding: 40px;
+            font-size: 1.2em;
+            color: #666;
+        }
+
+        .error {
+            background: #ffebee;
+            border-left: 4px solid #f44336;
+            padding: 15px;
+            margin: 20px 0;
+            color: #c62828;
+        }
+
+        @media (max-width: 768px) {
+            .container {
+                padding: 20px;
+            }
+
+            h1 {
+                font-size: 2em;
+            }
+
+            h2 {
+                font-size: 1.5em;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div id="root"></div>
+
+    <script type="text/babel">
+        const { useState, useEffect } = React;
+
+        function Pose({ pose }) {
+            return (
+                <div className="pose">
+                    <div className="pose-header">
+                        <span className="sanskrit">{pose.sanskrit}</span>
+                        {pose.repetitions && (
+                            <span className="repetitions">({pose.repetitions})</span>
+                        )}
+                    </div>
+                    {pose.etymology && (
+                        <div className="etymology">{pose.etymology}</div>
+                    )}
+                    <div className="translation">{pose.translation}</div>
+                    <div className="description">{pose.description}</div>
+                </div>
+            );
+        }
+
+        function Section({ section }) {
+            return (
+                <section>
+                    <h2>{section.name}</h2>
+                    {section.poses.map((pose, index) => (
+                        <Pose key={index} pose={pose} />
+                    ))}
+                </section>
+            );
+        }
+
+        function App() {
+            const [data, setData] = useState(null);
+            const [loading, setLoading] = useState(true);
+            const [error, setError] = useState(null);
+
+            useEffect(() => {
+                fetch('poses.json')
+                    .then(response => {
+                        if (!response.ok) {
+                            throw new Error('Failed to load poses data');
+                        }
+                        return response.json();
+                    })
+                    .then(jsonData => {
+                        setData(jsonData);
+                        setLoading(false);
+                    })
+                    .catch(err => {
+                        setError(err.message);
+                        setLoading(false);
+                    });
+            }, []);
+
+            if (loading) {
+                return (
+                    <div className="container">
+                        <div className="loading">Loading Ashtanga Primary Series...</div>
+                    </div>
+                );
+            }
+
+            if (error) {
+                return (
+                    <div className="container">
+                        <div className="error">Error: {error}</div>
+                    </div>
+                );
+            }
+
+            return (
+                <div className="container">
+                    <header>
+                        <h1>{data.title}</h1>
+                        <p className="subtitle">{data.subtitle}</p>
+                    </header>
+
+                    {data.sections.map((section, index) => (
+                        <Section key={index} section={section} />
+                    ))}
+
+                    <div className="note">{data.note}</div>
+                </div>
+            );
+        }
+
+        const root = ReactDOM.createRoot(document.getElementById('root'));
+        root.render(<App />);
+    </script>
+</body>
+</html>

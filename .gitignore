@@ -1,0 +1,6 @@
+images/2025**/*
+node_modules/
+.DS_Store
+.channels_cache_v2.json
+.users_cache.json
+.env
