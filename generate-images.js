@@ -1,14 +1,102 @@
 import Replicate from "replicate";
 import fs from "node:fs/promises";
 import path from "node:path";
+import readline from "node:readline";
 
 const replicate = new Replicate({
   auth: process.env.REPLICATE_API_TOKEN,
 });
 
+// Function to get available style images
+async function getAvailableStyles() {
+  const stylesDir = "images/_styles";
+  const files = await fs.readdir(stylesDir);
+  return files
+    .filter(file => file.endsWith('.png') || file.endsWith('.jpg') || file.endsWith('.jpeg'))
+    .map(file => ({
+      name: file,
+      path: path.join(stylesDir, file)
+    }));
+}
+
+// Function to prompt user for style selection
+async function promptForStyle(styles) {
+  const rl = readline.createInterface({
+    input: process.stdin,
+    output: process.stdout
+  });
+
+  console.log("\nAvailable style images:");
+  styles.forEach((style, index) => {
+    console.log(`  ${index + 1}. ${style.name}`);
+  });
+
+  return new Promise((resolve) => {
+    rl.question("\nSelect a style (enter number): ", (answer) => {
+      rl.close();
+      const selection = parseInt(answer, 10) - 1;
+      if (selection >= 0 && selection < styles.length) {
+        resolve(styles[selection]);
+      } else {
+        console.error("Invalid selection. Using first style.");
+        resolve(styles[0]);
+      }
+    });
+  });
+}
+
+// Get style image path from command line arg or prompt user
+let styleImagePath;
+const styleArg = process.argv[2];
+
+// Show help if requested
+if (styleArg === '--help' || styleArg === '-h') {
+  console.log(`
+Usage: node generate-images.js [style-image]
+
+Arguments:
+  style-image    Optional. Name of style image from images/_styles/ directory,
+                 or full path to a style image file.
+                 If not provided, you'll be prompted to select interactively.
+
+Examples:
+  node generate-images.js                    # Interactive mode
+  node generate-images.js scarry.png         # Use specific style from _styles
+  node generate-images.js /path/to/style.png # Use custom style path
+`);
+  process.exit(0);
+}
+
+if (styleArg) {
+  // Check if it's a full path or just a filename
+  if (styleArg.includes('/') || styleArg.includes('\\')) {
+    styleImagePath = styleArg;
+  } else {
+    styleImagePath = path.join("images/_styles", styleArg);
+  }
+  console.log(`Using style: ${styleImagePath}`);
+} else {
+  // Interactive mode
+  const availableStyles = await getAvailableStyles();
+  if (availableStyles.length === 0) {
+    console.error("No style images found in images/_styles/");
+    process.exit(1);
+  }
+  const selectedStyle = await promptForStyle(availableStyles);
+  styleImagePath = selectedStyle.path;
+  console.log(`Selected style: ${selectedStyle.name}`);
+}
+
+// Verify the style image exists
+try {
+  await fs.access(styleImagePath);
+} catch (error) {
+  console.error(`Style image not found: ${styleImagePath}`);
+  process.exit(1);
+}
+
 // Read and convert style reference image to data URL
 console.log("Loading style reference image...");
-const styleImagePath = "images/_styles/flora.jpg";
 const styleImageBuffer = await fs.readFile(styleImagePath);
 const base64Image = styleImageBuffer.toString('base64');
 const styleImageDataUrl = `data:image/jpeg;base64,${base64Image}`;

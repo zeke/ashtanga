@@ -8,6 +8,9 @@
     "generate": "node generate-images.js",
     "dev": "http-server -p 8080 -o"
   },
+  "engines": {
+    "node": ">=24.0.0"
+  },
   "dependencies": {
     "replicate": "alpha"
   },
