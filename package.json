@@ -5,9 +5,13 @@
   "description": "Generate yoga pose images for Ashtanga Primary Series",
   "main": "generate-images.js",
   "scripts": {
-    "generate": "node generate-images.js"
+    "generate": "node generate-images.js",
+    "dev": "http-server -p 8080 -o"
   },
   "dependencies": {
     "replicate": "alpha"
+  },
+  "devDependencies": {
+    "http-server": "^14.1.1"
   }
 }
