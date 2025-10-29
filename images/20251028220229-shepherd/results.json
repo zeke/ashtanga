@@ -1,0 +1,416 @@
+{
+  "timestamp": "2025-10-28T22:02:50.593Z",
+  "outputDirectory": "images/20251028220229-shepherd",
+  "total": 51,
+  "successful": 50,
+  "failed": 1,
+  "results": [
+    {
+      "sanskrit": "Samasthiti",
+      "section": "Opening",
+      "filename": "001-samasthiti-equal-standing-26h4xwh6xsrmc0ct5kc89pqv80.jpg",
+      "filepath": "images/20251028220229-shepherd/001-samasthiti-equal-standing-26h4xwh6xsrmc0ct5kc89pqv80.jpg",
+      "success": true,
+      "predictionId": "26h4xwh6xsrmc0ct5kc89pqv80"
+    },
+    {
+      "sanskrit": "Surya Namaskara A",
+      "section": "Sun Salutations",
+      "filename": "002-surya-namaskara-a-sun-salutation-a-63tvgt1g7xrm80ct5kc8sxchpr.jpg",
+      "filepath": "images/20251028220229-shepherd/002-surya-namaskara-a-sun-salutation-a-63tvgt1g7xrm80ct5kc8sxchpr.jpg",
+      "success": true,
+      "predictionId": "63tvgt1g7xrm80ct5kc8sxchpr"
+    },
+    {
+      "sanskrit": "Surya Namaskara B",
+      "section": "Sun Salutations",
+      "filename": "003-surya-namaskara-b-sun-salutation-b-9kjrpb924xrm80ct5kcbshkrf8.jpg",
+      "filepath": "images/20251028220229-shepherd/003-surya-namaskara-b-sun-salutation-b-9kjrpb924xrm80ct5kcbshkrf8.jpg",
+      "success": true,
+      "predictionId": "9kjrpb924xrm80ct5kcbshkrf8"
+    },
+    {
+      "sanskrit": "Padangusthasana",
+      "section": "Standing Postures",
+      "filename": "004-padangusthasana-big-toe-pose-pmsysk9gysrma0ct5kc8ksnr58.jpg",
+      "filepath": "images/20251028220229-shepherd/004-padangusthasana-big-toe-pose-pmsysk9gysrma0ct5kc8ksnr58.jpg",
+      "success": true,
+      "predictionId": "pmsysk9gysrma0ct5kc8ksnr58"
+    },
+    {
+      "sanskrit": "Pada Hastasana",
+      "section": "Standing Postures",
+      "filename": "005-pada-hastasana-hand-under-foot-pose-mqmej3s8r1rmc0ct5kca9cwq7c.jpg",
+      "filepath": "images/20251028220229-shepherd/005-pada-hastasana-hand-under-foot-pose-mqmej3s8r1rmc0ct5kca9cwq7c.jpg",
+      "success": true,
+      "predictionId": "mqmej3s8r1rmc0ct5kca9cwq7c"
+    },
+    {
+      "sanskrit": "Utthita Trikonasana",
+      "section": "Standing Postures",
+      "filename": "006-utthita-trikonasana-extended-triangle-2a3kda1cwhrma0ct5kc8py007g.jpg",
+      "filepath": "images/20251028220229-shepherd/006-utthita-trikonasana-extended-triangle-2a3kda1cwhrma0ct5kc8py007g.jpg",
+      "success": true,
+      "predictionId": "2a3kda1cwhrma0ct5kc8py007g"
+    },
+    {
+      "sanskrit": "Parivrtta Trikonasana",
+      "section": "Standing Postures",
+      "filename": "007-parivrtta-trikonasana-revolved-triangle-fz7rbk1051rm80ct5kcaawkhpw.jpg",
+      "filepath": "images/20251028220229-shepherd/007-parivrtta-trikonasana-revolved-triangle-fz7rbk1051rm80ct5kcaawkhpw.jpg",
+      "success": true,
+      "predictionId": "fz7rbk1051rm80ct5kcaawkhpw"
+    },
+    {
+      "sanskrit": "Utthita Parsvakonasana",
+      "section": "Standing Postures",
+      "filename": "008-utthita-parsvakonasana-extended-side-angle-42x4br9fz9rma0ct5kcasn7bfg.jpg",
+      "filepath": "images/20251028220229-shepherd/008-utthita-parsvakonasana-extended-side-angle-42x4br9fz9rma0ct5kcasn7bfg.jpg",
+      "success": true,
+      "predictionId": "42x4br9fz9rma0ct5kcasn7bfg"
+    },
+    {
+      "sanskrit": "Parivrtta Parsvakonasana",
+      "section": "Standing Postures",
+      "filename": "009-parivrtta-parsvakonasana-revolved-side-angle-9ec8gx1cjnrme0ct5kc97730j8.jpg",
+      "filepath": "images/20251028220229-shepherd/009-parivrtta-parsvakonasana-revolved-side-angle-9ec8gx1cjnrme0ct5kc97730j8.jpg",
+      "success": true,
+      "predictionId": "9ec8gx1cjnrme0ct5kc97730j8"
+    },
+    {
+      "sanskrit": "Prasarita Padottanasana A-D",
+      "section": "Standing Postures",
+      "filename": "010-prasarita-padottanasana-a-d-spread-feet-intense-stretch-zxsetdhgqxrm80ct5kc9mk3s8r.jpg",
+      "filepath": "images/20251028220229-shepherd/010-prasarita-padottanasana-a-d-spread-feet-intense-stretch-zxsetdhgqxrm80ct5kc9mk3s8r.jpg",
+      "success": true,
+      "predictionId": "zxsetdhgqxrm80ct5kc9mk3s8r"
+    },
+    {
+      "sanskrit": "Parsvottanasana",
+      "section": "Standing Postures",
+      "filename": "011-parsvottanasana-intense-side-stretch-5svvzn9bcdrma0ct5kc8zv4ymg.jpg",
+      "filepath": "images/20251028220229-shepherd/011-parsvottanasana-intense-side-stretch-5svvzn9bcdrma0ct5kc8zv4ymg.jpg",
+      "success": true,
+      "predictionId": "5svvzn9bcdrma0ct5kc8zv4ymg"
+    },
+    {
+      "sanskrit": "Utthita Hasta Padangusthasana",
+      "section": "Standing Postures",
+      "filename": "012-utthita-hasta-padangusthasana-extended-hand-to-big-toe-acbzrr915hrme0ct5kcbjwt2x8.jpg",
+      "filepath": "images/20251028220229-shepherd/012-utthita-hasta-padangusthasana-extended-hand-to-big-toe-acbzrr915hrme0ct5kcbjwt2x8.jpg",
+      "success": true,
+      "predictionId": "acbzrr915hrme0ct5kcbjwt2x8"
+    },
+    {
+      "sanskrit": "Ardha Baddha Padmottanasana",
+      "section": "Standing Postures",
+      "filename": "013-ardha-baddha-padmottanasana-half-bound-lotus-forward-fold-va9jjms8j1rm80ct5kc8ce9h9g.jpg",
+      "filepath": "images/20251028220229-shepherd/013-ardha-baddha-padmottanasana-half-bound-lotus-forward-fold-va9jjms8j1rm80ct5kc8ce9h9g.jpg",
+      "success": true,
+      "predictionId": "va9jjms8j1rm80ct5kc8ce9h9g"
+    },
+    {
+      "sanskrit": "Utkatasana",
+      "section": "Standing Postures",
+      "filename": "014-utkatasana-fierce-pose-80w7rmhbqsrmc0ct5kca93ctq4.jpg",
+      "filepath": "images/20251028220229-shepherd/014-utkatasana-fierce-pose-80w7rmhbqsrmc0ct5kca93ctq4.jpg",
+      "success": true,
+      "predictionId": "80w7rmhbqsrmc0ct5kca93ctq4"
+    },
+    {
+      "sanskrit": "Virabhadrasana A & B",
+      "section": "Standing Postures",
+      "filename": "015-virabhadrasana-a-b-warrior-pose-hrp2nf9b49rmc0ct5kcbgppker.jpg",
+      "filepath": "images/20251028220229-shepherd/015-virabhadrasana-a-b-warrior-pose-hrp2nf9b49rmc0ct5kcbgppker.jpg",
+      "success": true,
+      "predictionId": "hrp2nf9b49rmc0ct5kcbgppker"
+    },
+    {
+      "sanskrit": "Dandasana",
+      "section": "Seated Postures",
+      "filename": "016-dandasana-staff-pose-bk79d7sc7xrme0ct5kc87xezxr.jpg",
+      "filepath": "images/20251028220229-shepherd/016-dandasana-staff-pose-bk79d7sc7xrme0ct5kc87xezxr.jpg",
+      "success": true,
+      "predictionId": "bk79d7sc7xrme0ct5kc87xezxr"
+    },
+    {
+      "sanskrit": "Paschimottanasana A-D",
+      "section": "Seated Postures",
+      "filename": "017-paschimottanasana-a-d-westback-stretching-1xdr98sfk1rm80ct5kcb8ybpxr.jpg",
+      "filepath": "images/20251028220229-shepherd/017-paschimottanasana-a-d-westback-stretching-1xdr98sfk1rm80ct5kcb8ybpxr.jpg",
+      "success": true,
+      "predictionId": "1xdr98sfk1rm80ct5kcb8ybpxr"
+    },
+    {
+      "sanskrit": "Purvottanasana",
+      "section": "Seated Postures",
+      "filename": "018-purvottanasana-eastfront-stretching-t7qbgz99axrm80ct5kc83df6wm.jpg",
+      "filepath": "images/20251028220229-shepherd/018-purvottanasana-eastfront-stretching-t7qbgz99axrm80ct5kc83df6wm.jpg",
+      "success": true,
+      "predictionId": "t7qbgz99axrm80ct5kc83df6wm"
+    },
+    {
+      "sanskrit": "Ardha Baddha Padma Paschimottanasana",
+      "section": "Seated Postures",
+      "filename": "019-ardha-baddha-padma-paschimottanasana-half-bound-lotus-west-stretch-rkwyn4hffdrm80ct5kc8n64sww.jpg",
+      "filepath": "images/20251028220229-shepherd/019-ardha-baddha-padma-paschimottanasana-half-bound-lotus-west-stretch-rkwyn4hffdrm80ct5kc8n64sww.jpg",
+      "success": true,
+      "predictionId": "rkwyn4hffdrm80ct5kc8n64sww"
+    },
+    {
+      "sanskrit": "Triang Mukhaikapada Paschimottanasana",
+      "section": "Seated Postures",
+      "filename": "020-triang-mukhaikapada-paschimottanasana-forward-fold-with-one-leg-bent-6wwc7ksbb9rma0ct5kc80fw3k8.jpg",
+      "filepath": "images/20251028220229-shepherd/020-triang-mukhaikapada-paschimottanasana-forward-fold-with-one-leg-bent-6wwc7ksbb9rma0ct5kc80fw3k8.jpg",
+      "success": true,
+      "predictionId": "6wwc7ksbb9rma0ct5kc80fw3k8"
+    },
+    {
+      "sanskrit": "Janu Sirsasana A-C",
+      "section": "Seated Postures",
+      "filename": "021-janu-sirsasana-a-c-knee-head-pose-74695zhh69rm80ct5kc8fys8q4.jpg",
+      "filepath": "images/20251028220229-shepherd/021-janu-sirsasana-a-c-knee-head-pose-74695zhh69rm80ct5kc8fys8q4.jpg",
+      "success": true,
+      "predictionId": "74695zhh69rm80ct5kc8fys8q4"
+    },
+    {
+      "sanskrit": "Marichyasana A-D",
+      "section": "Seated Postures",
+      "filename": "022-marichyasana-a-d-pose-of-marichi-30vc8j1f7xrma0ct5kcamaqrpw.jpg",
+      "filepath": "images/20251028220229-shepherd/022-marichyasana-a-d-pose-of-marichi-30vc8j1f7xrma0ct5kcamaqrpw.jpg",
+      "success": true,
+      "predictionId": "30vc8j1f7xrma0ct5kcamaqrpw"
+    },
+    {
+      "sanskrit": "Navasana",
+      "section": "Seated Postures",
+      "filename": "023-navasana-boat-pose-error.jpg",
+      "success": false,
+      "error": "Prediction failed: The input or output was flagged as sensitive. Please try again with different inputs. (E005) (uIJ6l3ruRD)"
+    },
+    {
+      "sanskrit": "Bhujapidasana",
+      "section": "Seated Postures",
+      "filename": "024-bhujapidasana-shoulder-pressure-pose-0jexe59275rme0ct5kcaaaxha0.jpg",
+      "filepath": "images/20251028220229-shepherd/024-bhujapidasana-shoulder-pressure-pose-0jexe59275rme0ct5kcaaaxha0.jpg",
+      "success": true,
+      "predictionId": "0jexe59275rme0ct5kcaaaxha0"
+    },
+    {
+      "sanskrit": "Kurmasana",
+      "section": "Seated Postures",
+      "filename": "025-kurmasana-tortoise-pose-c3pwrfhgk1rmc0ct5kc9scx8qw.jpg",
+      "filepath": "images/20251028220229-shepherd/025-kurmasana-tortoise-pose-c3pwrfhgk1rmc0ct5kc9scx8qw.jpg",
+      "success": true,
+      "predictionId": "c3pwrfhgk1rmc0ct5kc9scx8qw"
+    },
+    {
+      "sanskrit": "Supta Kurmasana",
+      "section": "Seated Postures",
+      "filename": "026-supta-kurmasana-sleeping-tortoise-2j4yj21931rma0ct5kc9es6yj0.jpg",
+      "filepath": "images/20251028220229-shepherd/026-supta-kurmasana-sleeping-tortoise-2j4yj21931rma0ct5kc9es6yj0.jpg",
+      "success": true,
+      "predictionId": "2j4yj21931rma0ct5kc9es6yj0"
+    },
+    {
+      "sanskrit": "Garbha Pindasana",
+      "section": "Seated Postures",
+      "filename": "027-garbha-pindasana-embryo-in-womb-f0j5h0s79hrmc0ct5kca5t5qa0.jpg",
+      "filepath": "images/20251028220229-shepherd/027-garbha-pindasana-embryo-in-womb-f0j5h0s79hrmc0ct5kca5t5qa0.jpg",
+      "success": true,
+      "predictionId": "f0j5h0s79hrmc0ct5kca5t5qa0"
+    },
+    {
+      "sanskrit": "Kukkutasana",
+      "section": "Seated Postures",
+      "filename": "028-kukkutasana-rooster-pose-4eefy7sbsxrmc0ct5kca51hwjw.jpg",
+      "filepath": "images/20251028220229-shepherd/028-kukkutasana-rooster-pose-4eefy7sbsxrmc0ct5kca51hwjw.jpg",
+      "success": true,
+      "predictionId": "4eefy7sbsxrmc0ct5kca51hwjw"
+    },
+    {
+      "sanskrit": "Baddha Konasana A & B",
+      "section": "Seated Postures",
+      "filename": "029-baddha-konasana-a-b-bound-angle-pose-fpbjv9hgv9rmc0ct5kcbqvrzzm.jpg",
+      "filepath": "images/20251028220229-shepherd/029-baddha-konasana-a-b-bound-angle-pose-fpbjv9hgv9rmc0ct5kcbqvrzzm.jpg",
+      "success": true,
+      "predictionId": "fpbjv9hgv9rmc0ct5kcbqvrzzm"
+    },
+    {
+      "sanskrit": "Upavistha Konasana A & B",
+      "section": "Seated Postures",
+      "filename": "030-upavistha-konasana-a-b-seated-angle-pose-vv7dt897z1rma0ct5kc9kcc06w.jpg",
+      "filepath": "images/20251028220229-shepherd/030-upavistha-konasana-a-b-seated-angle-pose-vv7dt897z1rma0ct5kc9kcc06w.jpg",
+      "success": true,
+      "predictionId": "vv7dt897z1rma0ct5kc9kcc06w"
+    },
+    {
+      "sanskrit": "Supta Konasana",
+      "section": "Seated Postures",
+      "filename": "031-supta-konasana-reclining-angle-pose-cp5g0c1c7srme0ct5kcagyvv1w.jpg",
+      "filepath": "images/20251028220229-shepherd/031-supta-konasana-reclining-angle-pose-cp5g0c1c7srme0ct5kcagyvv1w.jpg",
+      "success": true,
+      "predictionId": "cp5g0c1c7srme0ct5kcagyvv1w"
+    },
+    {
+      "sanskrit": "Supta Padangusthasana A & B",
+      "section": "Seated Postures",
+      "filename": "032-supta-padangusthasana-a-b-reclining-big-toe-pose-s2apnk1fwdrma0ct5kcbv2kcs0.jpg",
+      "filepath": "images/20251028220229-shepherd/032-supta-padangusthasana-a-b-reclining-big-toe-pose-s2apnk1fwdrma0ct5kcbv2kcs0.jpg",
+      "success": true,
+      "predictionId": "s2apnk1fwdrma0ct5kcbv2kcs0"
+    },
+    {
+      "sanskrit": "Ubhaya Padangusthasana",
+      "section": "Seated Postures",
+      "filename": "033-ubhaya-padangusthasana-both-feet-big-toe-b68sya17gxrmc0ct5kca5zwbv8.jpg",
+      "filepath": "images/20251028220229-shepherd/033-ubhaya-padangusthasana-both-feet-big-toe-b68sya17gxrmc0ct5kca5zwbv8.jpg",
+      "success": true,
+      "predictionId": "b68sya17gxrmc0ct5kca5zwbv8"
+    },
+    {
+      "sanskrit": "Urdhva Mukha Paschimottanasana",
+      "section": "Seated Postures",
+      "filename": "034-urdhva-mukha-paschimottanasana-upward-facing-west-stretch-4az3w01by1rm80ct5kc8q2czn4.jpg",
+      "filepath": "images/20251028220229-shepherd/034-urdhva-mukha-paschimottanasana-upward-facing-west-stretch-4az3w01by1rm80ct5kc8q2czn4.jpg",
+      "success": true,
+      "predictionId": "4az3w01by1rm80ct5kc8q2czn4"
+    },
+    {
+      "sanskrit": "Setu Bandhasana",
+      "section": "Seated Postures",
+      "filename": "035-setu-bandhasana-bridge-building-t2bpggh86xrma0ct5kca3jhyxc.jpg",
+      "filepath": "images/20251028220229-shepherd/035-setu-bandhasana-bridge-building-t2bpggh86xrma0ct5kca3jhyxc.jpg",
+      "success": true,
+      "predictionId": "t2bpggh86xrma0ct5kca3jhyxc"
+    },
+    {
+      "sanskrit": "Urdhva Dhanurasana",
+      "section": "Finishing Sequence",
+      "filename": "036-urdhva-dhanurasana-upward-bow-q7g70hs9jnrmc0ct5kc91gdqvr.jpg",
+      "filepath": "images/20251028220229-shepherd/036-urdhva-dhanurasana-upward-bow-q7g70hs9jnrmc0ct5kc91gdqvr.jpg",
+      "success": true,
+      "predictionId": "q7g70hs9jnrmc0ct5kc91gdqvr"
+    },
+    {
+      "sanskrit": "Paschimottanasana",
+      "section": "Finishing Sequence",
+      "filename": "037-paschimottanasana-west-stretch-185ph4hfvsrm80ct5kc9z2xytw.jpg",
+      "filepath": "images/20251028220229-shepherd/037-paschimottanasana-west-stretch-185ph4hfvsrm80ct5kc9z2xytw.jpg",
+      "success": true,
+      "predictionId": "185ph4hfvsrm80ct5kc9z2xytw"
+    },
+    {
+      "sanskrit": "Salamba Sarvangasana",
+      "section": "Finishing Sequence",
+      "filename": "038-salamba-sarvangasana-supported-all-limbs-pose-hn7jrvhcw1rme0ct5kc8xs7g7r.jpg",
+      "filepath": "images/20251028220229-shepherd/038-salamba-sarvangasana-supported-all-limbs-pose-hn7jrvhcw1rme0ct5kc8xs7g7r.jpg",
+      "success": true,
+      "predictionId": "hn7jrvhcw1rme0ct5kc8xs7g7r"
+    },
+    {
+      "sanskrit": "Halasana",
+      "section": "Finishing Sequence",
+      "filename": "039-halasana-plow-pose-kzwxrv19zhrme0ct5kcb6eaz1r.jpg",
+      "filepath": "images/20251028220229-shepherd/039-halasana-plow-pose-kzwxrv19zhrme0ct5kcb6eaz1r.jpg",
+      "success": true,
+      "predictionId": "kzwxrv19zhrme0ct5kcb6eaz1r"
+    },
+    {
+      "sanskrit": "Karnapidasana",
+      "section": "Finishing Sequence",
+      "filename": "040-karnapidasana-ear-pressure-pose-gy8p85se3nrmc0ct5kca47gqrw.jpg",
+      "filepath": "images/20251028220229-shepherd/040-karnapidasana-ear-pressure-pose-gy8p85se3nrmc0ct5kca47gqrw.jpg",
+      "success": true,
+      "predictionId": "gy8p85se3nrmc0ct5kca47gqrw"
+    },
+    {
+      "sanskrit": "Urdhva Padmasana",
+      "section": "Finishing Sequence",
+      "filename": "041-urdhva-padmasana-upward-lotus-3jzz2v17zdrme0ct5kc8gyfsz8.jpg",
+      "filepath": "images/20251028220229-shepherd/041-urdhva-padmasana-upward-lotus-3jzz2v17zdrme0ct5kc8gyfsz8.jpg",
+      "success": true,
+      "predictionId": "3jzz2v17zdrme0ct5kc8gyfsz8"
+    },
+    {
+      "sanskrit": "Pindasana",
+      "section": "Finishing Sequence",
+      "filename": "042-pindasana-embryo-pose-pdfsxese7srm80ct5kcatgx7er.jpg",
+      "filepath": "images/20251028220229-shepherd/042-pindasana-embryo-pose-pdfsxese7srm80ct5kcatgx7er.jpg",
+      "success": true,
+      "predictionId": "pdfsxese7srm80ct5kcatgx7er"
+    },
+    {
+      "sanskrit": "Matsyasana",
+      "section": "Finishing Sequence",
+      "filename": "043-matsyasana-fish-pose-3qngd9s8n1rma0ct5kc8y3scj8.jpg",
+      "filepath": "images/20251028220229-shepherd/043-matsyasana-fish-pose-3qngd9s8n1rma0ct5kc8y3scj8.jpg",
+      "success": true,
+      "predictionId": "3qngd9s8n1rma0ct5kc8y3scj8"
+    },
+    {
+      "sanskrit": "Uttana Padasana",
+      "section": "Finishing Sequence",
+      "filename": "044-uttana-padasana-extended-leg-pose-sz01jbsd0srm80ct5kcah9ryaw.jpg",
+      "filepath": "images/20251028220229-shepherd/044-uttana-padasana-extended-leg-pose-sz01jbsd0srm80ct5kcah9ryaw.jpg",
+      "success": true,
+      "predictionId": "sz01jbsd0srm80ct5kcah9ryaw"
+    },
+    {
+      "sanskrit": "Sirsasana A & B",
+      "section": "Finishing Sequence",
+      "filename": "045-sirsasana-a-b-head-pose-smc3g8s6rxrm80ct5kc8m51x80.jpg",
+      "filepath": "images/20251028220229-shepherd/045-sirsasana-a-b-head-pose-smc3g8s6rxrm80ct5kc8m51x80.jpg",
+      "success": true,
+      "predictionId": "smc3g8s6rxrm80ct5kc8m51x80"
+    },
+    {
+      "sanskrit": "Urdhva Dandasana",
+      "section": "Finishing Sequence",
+      "filename": "046-urdhva-dandasana-upward-staff-mcd6w91d01rme0ct5kcbr464k4.jpg",
+      "filepath": "images/20251028220229-shepherd/046-urdhva-dandasana-upward-staff-mcd6w91d01rme0ct5kcbr464k4.jpg",
+      "success": true,
+      "predictionId": "mcd6w91d01rme0ct5kcbr464k4"
+    },
+    {
+      "sanskrit": "Baddha Padmasana",
+      "section": "Finishing Sequence",
+      "filename": "047-baddha-padmasana-bound-lotus-2y2y5asbqhrma0ct5kc9h5kgcc.jpg",
+      "filepath": "images/20251028220229-shepherd/047-baddha-padmasana-bound-lotus-2y2y5asbqhrma0ct5kc9h5kgcc.jpg",
+      "success": true,
+      "predictionId": "2y2y5asbqhrma0ct5kc9h5kgcc"
+    },
+    {
+      "sanskrit": "Yoga Mudra",
+      "section": "Finishing Sequence",
+      "filename": "048-yoga-mudra-yoga-seal-3jq6rpshp5rm80ct5kc8xx8ahc.jpg",
+      "filepath": "images/20251028220229-shepherd/048-yoga-mudra-yoga-seal-3jq6rpshp5rm80ct5kc8xx8ahc.jpg",
+      "success": true,
+      "predictionId": "3jq6rpshp5rm80ct5kc8xx8ahc"
+    },
+    {
+      "sanskrit": "Padmasana",
+      "section": "Finishing Sequence",
+      "filename": "049-padmasana-lotus-pose-n4w9sdsd6hrme0ct5kcb0gm94r.jpg",
+      "filepath": "images/20251028220229-shepherd/049-padmasana-lotus-pose-n4w9sdsd6hrme0ct5kcb0gm94r.jpg",
+      "success": true,
+      "predictionId": "n4w9sdsd6hrme0ct5kcb0gm94r"
+    },
+    {
+      "sanskrit": "Uth Pluthi",
+      "section": "Finishing Sequence",
+      "filename": "050-uth-pluthi-lifted-up-6bkhya9dgdrma0ct5kcavr9vv4.jpg",
+      "filepath": "images/20251028220229-shepherd/050-uth-pluthi-lifted-up-6bkhya9dgdrma0ct5kcavr9vv4.jpg",
+      "success": true,
+      "predictionId": "6bkhya9dgdrma0ct5kcavr9vv4"
+    },
+    {
+      "sanskrit": "Savasana",
+      "section": "Finishing Sequence",
+      "filename": "051-savasana-corpse-pose-fg1v7vsgh9rm80ct5kcafe8vk8.jpg",
+      "filepath": "images/20251028220229-shepherd/051-savasana-corpse-pose-fg1v7vsgh9rm80ct5kcafe8vk8.jpg",
+      "success": true,
+      "predictionId": "fg1v7vsgh9rm80ct5kcafe8vk8"
+    }
+  ]
+}
